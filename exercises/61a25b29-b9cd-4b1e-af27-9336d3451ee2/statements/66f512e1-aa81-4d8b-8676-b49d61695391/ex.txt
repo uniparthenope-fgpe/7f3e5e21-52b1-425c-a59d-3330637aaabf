@@ -1,0 +1,1 @@
+Create a scheduling application that manages classes and events, allowing users to add, remove, and view their schedule using a time-turner concept.
