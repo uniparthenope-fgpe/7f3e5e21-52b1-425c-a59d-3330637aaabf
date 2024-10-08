@@ -1,0 +1,1 @@
+Extend the Starship class to include methods for adding and removing crew members.
