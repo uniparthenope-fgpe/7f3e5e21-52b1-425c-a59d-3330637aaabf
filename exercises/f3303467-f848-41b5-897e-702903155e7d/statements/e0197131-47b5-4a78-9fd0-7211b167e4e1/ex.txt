@@ -1,0 +1,1 @@
+Create a class called 'Potion' that allows the user to add, remove, and search for potions in a potion recipe book. Each potion should have a name and an ingredient list.
