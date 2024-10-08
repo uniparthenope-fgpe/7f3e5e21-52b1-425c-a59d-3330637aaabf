@@ -1,0 +1,1 @@
+Calculate the length of a wizard's wand based on the given formula: length = age * 0.5 + 10. Fill in the gaps in the provided code to complete the calculation.
