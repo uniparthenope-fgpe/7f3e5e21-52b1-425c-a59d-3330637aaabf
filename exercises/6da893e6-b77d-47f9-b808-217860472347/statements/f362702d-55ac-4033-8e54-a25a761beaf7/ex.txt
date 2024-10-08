@@ -1,0 +1,1 @@
+Fix the bug in the following code that counts magical creatures in a list.
