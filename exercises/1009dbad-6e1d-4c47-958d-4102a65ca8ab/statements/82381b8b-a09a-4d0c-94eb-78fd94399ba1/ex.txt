@@ -1,0 +1,1 @@
+Extend the House class to include a method for adding points and another for subtracting points.
