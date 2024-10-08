@@ -1,0 +1,1 @@
+Create a program that asks the user for their favorite color and returns a message about their lightsaber color. Fill in the gaps in the code below.
