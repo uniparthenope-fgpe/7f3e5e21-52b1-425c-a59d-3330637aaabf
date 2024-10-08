@@ -1,0 +1,1 @@
+def calculate_speed(distance, time):\n    speed = distance / time\n    return speed\n\ndistance = 1000  # in light-years\ntime = 5  # in years\nspeed = calculate_speed(distance, time)\nprint(f'Speed: {speed} light-years/year')
