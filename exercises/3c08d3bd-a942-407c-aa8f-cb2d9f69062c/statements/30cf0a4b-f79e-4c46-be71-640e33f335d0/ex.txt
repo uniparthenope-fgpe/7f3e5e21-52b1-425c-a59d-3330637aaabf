@@ -1,0 +1,1 @@
+Fix the bugs in the Triwizard Tournament simulator. The Tournament class should simulate participants and their scores based on random challenges. Ensure that the scoring system works correctly.
