@@ -1,0 +1,1 @@
+Fix the bug in the following code that determines the color of a lightsaber based on the user's choice.
