@@ -1,0 +1,1 @@
+Write a function that takes a student's traits as input and returns the corresponding Hogwarts house. Fill in the gaps in the provided code.
