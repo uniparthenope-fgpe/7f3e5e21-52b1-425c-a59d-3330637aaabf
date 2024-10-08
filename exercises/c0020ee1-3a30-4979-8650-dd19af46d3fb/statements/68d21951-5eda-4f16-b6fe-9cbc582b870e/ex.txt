@@ -1,0 +1,1 @@
+Extend the tax calculator to include a discount for Jedi and Sith. The base tax rate is 10%. If the user is a Jedi or Sith, apply a 5% discount.
