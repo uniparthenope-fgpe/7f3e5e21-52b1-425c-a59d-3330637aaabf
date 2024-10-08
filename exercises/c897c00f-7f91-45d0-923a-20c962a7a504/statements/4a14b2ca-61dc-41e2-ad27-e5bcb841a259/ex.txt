@@ -1,0 +1,1 @@
+Extend a program that keeps track of droids in an inventory. Add functionality to add and remove droids from the list.
