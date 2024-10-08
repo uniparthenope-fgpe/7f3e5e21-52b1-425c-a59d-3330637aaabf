@@ -1,0 +1,1 @@
+Create a function that calculates the total amount of ingredients needed for a potion based on the number of servings.
