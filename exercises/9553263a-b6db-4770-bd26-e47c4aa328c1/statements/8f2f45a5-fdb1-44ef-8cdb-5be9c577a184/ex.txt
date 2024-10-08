@@ -1,0 +1,1 @@
+Extend the existing droid inventory program by adding functionality to add new droids and display the inventory. Implement the required functions.
