@@ -1,0 +1,1 @@
+Fix the following code that simulates a magical creature encounter. The code should correctly count the number of encounters and print the type of creature encountered.
