@@ -1,0 +1,1 @@
+You have a list of droids. Write a function that counts how many droids are in the inventory. However, there is a bug in the code that prevents it from working correctly. Fix the code to make it functional.
