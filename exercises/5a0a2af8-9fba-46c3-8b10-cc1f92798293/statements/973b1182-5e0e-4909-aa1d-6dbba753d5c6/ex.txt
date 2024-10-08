@@ -1,0 +1,1 @@
+Write a function that chooses a lightsaber color based on the user's Jedi alignment. If the alignment is 'light', return 'blue' or 'green'. If 'dark', return 'red'. Fill in the gaps in the skeleton code.
