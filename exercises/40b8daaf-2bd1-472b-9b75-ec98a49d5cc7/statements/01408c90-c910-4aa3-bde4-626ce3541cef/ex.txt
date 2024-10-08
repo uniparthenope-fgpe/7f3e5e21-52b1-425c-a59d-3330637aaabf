@@ -1,0 +1,1 @@
+Fix the bugs in the Galactic Battle Simulation code to ensure that the Jedi and Sith classes properly inherit from a base Character class and can engage in battle.
