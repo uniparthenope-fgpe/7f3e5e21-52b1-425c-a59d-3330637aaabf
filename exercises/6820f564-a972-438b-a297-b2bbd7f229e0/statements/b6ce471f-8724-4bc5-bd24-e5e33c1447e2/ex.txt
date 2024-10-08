@@ -1,0 +1,1 @@
+Write a function that sorts a list of student names into their respective houses: Gryffindor, Slytherin, Hufflepuff, and Ravenclaw.
