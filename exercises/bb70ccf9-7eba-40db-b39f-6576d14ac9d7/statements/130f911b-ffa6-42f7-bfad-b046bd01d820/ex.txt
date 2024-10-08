@@ -1,0 +1,1 @@
+There is a bug in the droid factory code. Fix it so that it correctly counts the number of droids produced based on the input.
