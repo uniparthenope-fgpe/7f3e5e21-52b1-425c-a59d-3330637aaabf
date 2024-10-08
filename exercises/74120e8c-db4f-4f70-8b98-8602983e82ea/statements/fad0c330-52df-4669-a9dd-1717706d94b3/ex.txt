@@ -1,0 +1,1 @@
+Create a program that asks the user to input a potion name and selects a random ingredient from a predefined list for that potion.
