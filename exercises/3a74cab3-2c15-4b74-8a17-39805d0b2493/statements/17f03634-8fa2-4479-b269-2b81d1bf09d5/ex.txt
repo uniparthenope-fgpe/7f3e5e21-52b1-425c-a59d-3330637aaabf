@@ -1,0 +1,1 @@
+Fix the bug in the `defend_against_dark_arts` function that is supposed to return True if the spell is effective.
