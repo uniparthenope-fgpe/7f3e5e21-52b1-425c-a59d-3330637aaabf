@@ -1,0 +1,1 @@
+Create a function that takes a Jedi's rank as input and returns their lightsaber color. Padawans have blue lightsabers, Knights have green, and Masters have purple. Fill in the gaps in the code provided.
