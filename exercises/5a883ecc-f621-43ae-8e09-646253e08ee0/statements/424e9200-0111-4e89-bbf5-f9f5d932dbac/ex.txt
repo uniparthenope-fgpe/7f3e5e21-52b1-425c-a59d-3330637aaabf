@@ -1,0 +1,1 @@
+Fix the bugs in the Galactic Battle Simulator code. The code is supposed to create a Jedi and a Sith class, and simulate a battle between them.
