@@ -1,0 +1,1 @@
+Fix the bug in the following code that is supposed to simulate a lightsaber duel. The duel should end when one of the players' health reaches zero.
