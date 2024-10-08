@@ -1,0 +1,1 @@
+Create a program that asks the user for their favorite color and returns a message about their lightsaber color based on that input. If the color is 'blue', say they have a 'blue lightsaber'. If it's 'red', say they have a 'red lightsaber'. For any other color, say they have a 'green lightsaber'.
