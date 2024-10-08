@@ -1,0 +1,1 @@
+Fill in the gaps to create a variable that stores the name of your favorite Star Wars character.
