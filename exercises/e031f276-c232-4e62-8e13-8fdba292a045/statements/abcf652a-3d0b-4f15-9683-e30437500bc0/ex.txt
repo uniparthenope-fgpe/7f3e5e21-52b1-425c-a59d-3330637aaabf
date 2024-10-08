@@ -1,0 +1,1 @@
+Complete the function that calculates the cost of traveling between planets based on distance and fuel efficiency. The formula is: cost = distance / fuel_efficiency * fuel_price.
