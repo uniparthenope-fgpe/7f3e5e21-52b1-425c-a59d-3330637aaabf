@@ -1,0 +1,1 @@
+Fix the following code that checks if a spell is correctly spelled.
