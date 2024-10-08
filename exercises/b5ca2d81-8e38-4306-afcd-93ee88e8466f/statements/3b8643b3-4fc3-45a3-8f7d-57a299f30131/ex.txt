@@ -1,0 +1,1 @@
+Fix the bugs in the duel simulation where the player needs to choose spells to defeat the Basilisk. The player can choose 'Expelliarmus', 'Stupefy', or 'Avada Kedavra'.
