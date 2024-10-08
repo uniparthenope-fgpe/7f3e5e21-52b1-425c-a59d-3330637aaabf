@@ -1,0 +1,1 @@
+Extend the provided code to manage a list of droids. Each droid should have a name and a function to display its details.
