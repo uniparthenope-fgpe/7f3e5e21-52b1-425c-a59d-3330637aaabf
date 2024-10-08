@@ -1,0 +1,1 @@
+Create a program that asks the user for their favorite color and returns a corresponding lightsaber color. Use if statements to determine the color.
