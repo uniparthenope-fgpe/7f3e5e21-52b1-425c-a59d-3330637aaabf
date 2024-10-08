@@ -1,0 +1,1 @@
+Extend the potion recipe generator to include multiple ingredients and randomize the potion name. Create a function that combines ingredients into a potion.
