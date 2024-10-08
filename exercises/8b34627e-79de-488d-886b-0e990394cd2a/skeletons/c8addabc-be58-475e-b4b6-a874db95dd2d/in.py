@@ -1,0 +1,1 @@
+color = input('Enter your favorite color: ')\nif color == 'blue':\n    print('Your lightsaber is blue!')\nelif color == 'green':\n    print('Your lightsaber is green!')\nelse:\n    print('Your lightsaber is red!')
