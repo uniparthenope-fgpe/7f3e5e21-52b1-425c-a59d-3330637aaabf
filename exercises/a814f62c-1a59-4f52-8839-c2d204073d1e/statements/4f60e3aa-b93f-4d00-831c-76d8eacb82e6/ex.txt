@@ -1,0 +1,1 @@
+Create a function that simulates casting a spell. The function should take a spell name and a power level, and return a message based on the spell and power. Complete the function below.
