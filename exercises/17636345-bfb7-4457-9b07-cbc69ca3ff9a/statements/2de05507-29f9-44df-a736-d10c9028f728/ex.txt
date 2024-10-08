@@ -1,0 +1,1 @@
+Complete the implementation of a Galactic Battle Simulator using classes. You need to finish the methods for the Jedi and Sith classes to simulate a battle.
