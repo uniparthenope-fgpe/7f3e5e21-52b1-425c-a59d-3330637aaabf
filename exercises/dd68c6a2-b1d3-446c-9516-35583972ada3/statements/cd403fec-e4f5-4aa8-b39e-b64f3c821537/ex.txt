@@ -1,0 +1,1 @@
+Fix the bug in the following function that determines if a character is a Sith based on their power level. If the power level is above 9000, they are a Sith.
