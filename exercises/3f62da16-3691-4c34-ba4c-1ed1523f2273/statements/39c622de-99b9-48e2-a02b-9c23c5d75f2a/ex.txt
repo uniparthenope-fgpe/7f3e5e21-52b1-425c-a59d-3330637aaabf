@@ -1,0 +1,1 @@
+A function is supposed to count how many droids can be produced in a factory based on the available resources. However, there is a bug in the code. Fix the bug to ensure the correct number of droids is returned.
