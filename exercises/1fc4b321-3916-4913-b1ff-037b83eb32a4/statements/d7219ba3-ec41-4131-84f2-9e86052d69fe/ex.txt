@@ -1,0 +1,1 @@
+Fix the following code that is supposed to calculate the power of a Jedi based on their training level. The code has a bug that prevents it from returning the correct power value.
