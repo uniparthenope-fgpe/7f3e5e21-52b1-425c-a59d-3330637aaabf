@@ -1,0 +1,1 @@
+Extend the class-based scheduler to include functionality for adding and removing classes.
