@@ -1,0 +1,1 @@
+Create a function that takes a Jedi's rank and returns their lightsaber color based on the following rules: 'Youngling' - Blue, 'Padawan' - Green, 'Knight' - Purple, 'Master' - Red.
