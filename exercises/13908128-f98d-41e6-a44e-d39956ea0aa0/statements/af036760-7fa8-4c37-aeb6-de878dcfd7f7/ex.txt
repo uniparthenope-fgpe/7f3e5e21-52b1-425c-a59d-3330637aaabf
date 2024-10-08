@@ -1,0 +1,1 @@
+You need to sort a list of items in the Galactic Inventory. Implement a sorting function that sorts the items in alphabetical order.
