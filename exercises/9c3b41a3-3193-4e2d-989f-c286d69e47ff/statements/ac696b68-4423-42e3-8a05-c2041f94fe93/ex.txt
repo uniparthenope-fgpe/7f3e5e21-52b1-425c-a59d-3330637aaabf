@@ -1,0 +1,1 @@
+Complete the GalacticBattle class to simulate a battle between two starships. Each ship should have a name and health points. Implement methods to attack another ship and check if the ship is still alive.
