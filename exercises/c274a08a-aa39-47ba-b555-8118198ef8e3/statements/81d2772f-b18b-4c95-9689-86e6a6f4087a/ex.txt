@@ -1,0 +1,1 @@
+Fix the bug in the event scheduling class that checks for overlapping events.
