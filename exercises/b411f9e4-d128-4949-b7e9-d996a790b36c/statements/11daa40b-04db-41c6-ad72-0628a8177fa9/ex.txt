@@ -1,0 +1,1 @@
+You have a list of ingredients for a potion. Fix the bug in the code that checks if all required ingredients are present in the list.
