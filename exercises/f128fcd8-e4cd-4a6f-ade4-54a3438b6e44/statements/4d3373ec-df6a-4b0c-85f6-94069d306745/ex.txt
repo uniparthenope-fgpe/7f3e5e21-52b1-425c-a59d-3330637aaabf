@@ -1,0 +1,1 @@
+Fix the bugs in the age calculator that converts Earth years to Galactic years (1 Galactic year = 1.5 Earth years).
