@@ -1,0 +1,1 @@
+Create a list of droids with their names and types. Fill in the gaps to complete the function that returns the names of all droids.
