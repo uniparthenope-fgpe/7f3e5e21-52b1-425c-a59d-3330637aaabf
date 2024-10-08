@@ -1,0 +1,1 @@
+Extend the Magical Creature class to include methods for adding, removing, and searching for creatures in an encyclopedia.
