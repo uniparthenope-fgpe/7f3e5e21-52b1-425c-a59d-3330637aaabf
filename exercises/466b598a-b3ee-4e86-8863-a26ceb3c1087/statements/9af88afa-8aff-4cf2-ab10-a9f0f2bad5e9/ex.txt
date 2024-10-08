@@ -1,0 +1,1 @@
+Extend a given program that manages droid inventory. Add functionality to list all droids and their functions.
