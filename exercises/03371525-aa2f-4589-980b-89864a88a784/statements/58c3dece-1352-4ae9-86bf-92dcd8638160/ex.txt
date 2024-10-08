@@ -1,0 +1,1 @@
+Fix the bugs in the Droid Inventory Manager program that incorrectly counts the number of droids in the inventory.
