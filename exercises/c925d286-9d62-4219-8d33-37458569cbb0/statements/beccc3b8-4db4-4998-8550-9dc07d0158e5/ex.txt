@@ -1,0 +1,1 @@
+Create a function that generates a random name for a droid using a list of prefixes and suffixes.
