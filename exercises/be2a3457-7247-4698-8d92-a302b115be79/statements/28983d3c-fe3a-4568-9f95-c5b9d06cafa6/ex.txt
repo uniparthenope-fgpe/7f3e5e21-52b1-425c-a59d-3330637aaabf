@@ -1,0 +1,1 @@
+Extend the Wizard class to include a method that casts a spell. The spell should print a message indicating the spell being cast.
