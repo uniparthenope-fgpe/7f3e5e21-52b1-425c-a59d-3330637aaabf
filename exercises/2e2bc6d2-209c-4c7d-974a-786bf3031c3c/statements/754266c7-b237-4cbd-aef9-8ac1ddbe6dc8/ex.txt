@@ -1,0 +1,1 @@
+Write a function that converts galactic coordinates (x, y) into their distance from the origin using the formula distance = sqrt(x^2 + y^2). Complete the function below.
