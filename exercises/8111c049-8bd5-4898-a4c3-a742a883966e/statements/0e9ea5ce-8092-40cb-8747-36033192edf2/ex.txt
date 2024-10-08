@@ -1,6 +1,0 @@
-There is a bug in the following function that is supposed to return a greeting message. Identify and fix the issue.
-
-```python
-def greet(name):
-    return 'Hello ' + name + '!' +
-```
