@@ -1,0 +1,1 @@
+Create a class `MagicalCreature` with attributes for name and type, and a method that describes the creature.
