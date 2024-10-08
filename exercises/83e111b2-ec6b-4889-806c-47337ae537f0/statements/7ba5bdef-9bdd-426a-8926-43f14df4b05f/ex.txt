@@ -1,0 +1,1 @@
+Complete the Wizard Duel simulation where two wizards take turns casting spells until one wins.
