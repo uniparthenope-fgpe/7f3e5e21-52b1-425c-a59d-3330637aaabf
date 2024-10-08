@@ -1,0 +1,1 @@
+Fix the bugs in the starship fuel efficiency calculator. The program should calculate the fuel efficiency based on distance and fuel consumed.
