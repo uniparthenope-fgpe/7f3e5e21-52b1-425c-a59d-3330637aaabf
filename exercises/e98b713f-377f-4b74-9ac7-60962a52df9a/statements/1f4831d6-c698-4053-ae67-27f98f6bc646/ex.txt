@@ -1,0 +1,1 @@
+Extend the existing function to calculate the time taken for a starship to travel a distance at a given speed. The function should take distance (in light-years) and speed (in light-years per hour) as inputs and return the time in hours.
