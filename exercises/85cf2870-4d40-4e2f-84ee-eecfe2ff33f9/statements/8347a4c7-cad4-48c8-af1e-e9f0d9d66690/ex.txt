@@ -1,0 +1,1 @@
+Extend the potion generator to allow users to input their desired potion type and generate a random recipe with ingredients.
