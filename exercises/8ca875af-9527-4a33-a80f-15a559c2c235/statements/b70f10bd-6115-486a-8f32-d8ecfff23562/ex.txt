@@ -1,0 +1,1 @@
+Complete the function that sorts students into houses based on their traits. Use the traits to determine the house they belong to.
