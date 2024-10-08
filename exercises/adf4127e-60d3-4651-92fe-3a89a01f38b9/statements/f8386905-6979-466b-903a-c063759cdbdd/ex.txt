@@ -1,0 +1,1 @@
+Fix the function that selects a lightsaber color based on the Jedi's rank. The function should return 'Green' for Masters, 'Blue' for Knights, and 'Red' for Sith. Currently, it returns incorrect colors.
