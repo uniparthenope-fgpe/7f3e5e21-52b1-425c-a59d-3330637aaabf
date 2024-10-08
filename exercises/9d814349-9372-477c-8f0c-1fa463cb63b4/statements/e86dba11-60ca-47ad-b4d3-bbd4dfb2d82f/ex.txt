@@ -1,0 +1,1 @@
+Extend the function to calculate the total number of droids produced in a factory. Each droid requires 5 minutes to assemble, and the factory operates for a given number of hours. Return the total number of droids produced.
