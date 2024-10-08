@@ -1,0 +1,1 @@
+Create a function that selects a lightsaber color based on the user's choice of Jedi or Sith. If the user chooses Jedi, return 'Blue' or 'Green'. If the user chooses Sith, return 'Red'.
