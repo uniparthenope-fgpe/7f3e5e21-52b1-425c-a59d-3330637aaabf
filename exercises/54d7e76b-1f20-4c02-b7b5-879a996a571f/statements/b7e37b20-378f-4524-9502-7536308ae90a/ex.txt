@@ -1,0 +1,1 @@
+Fix the bugs in the following code that is supposed to list droids in the inventory.
