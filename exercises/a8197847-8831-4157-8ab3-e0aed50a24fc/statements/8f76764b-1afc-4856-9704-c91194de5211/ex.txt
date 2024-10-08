@@ -1,0 +1,1 @@
+Extend the following class to include more spell effects based on the spell name.
