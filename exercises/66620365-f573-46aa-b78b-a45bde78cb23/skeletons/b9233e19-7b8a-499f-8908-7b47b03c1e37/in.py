@@ -1,0 +1,1 @@
+droids = ['R2-D2', 'C-3PO']\ndef add_droid(droid):\n    droids.append(droid)\n    return droids\n\nadd_droid('BB-8')\nprint(droids)
