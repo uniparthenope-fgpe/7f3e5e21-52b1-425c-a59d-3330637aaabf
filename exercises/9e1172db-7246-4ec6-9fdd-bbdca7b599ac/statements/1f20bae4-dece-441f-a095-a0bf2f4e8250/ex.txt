@@ -1,0 +1,1 @@
+Improve the spell checker function to identify and correct common spelling mistakes in a list of words.
