@@ -1,0 +1,1 @@
+Write a function that takes a student's name and returns the house they belong to based on their traits.
