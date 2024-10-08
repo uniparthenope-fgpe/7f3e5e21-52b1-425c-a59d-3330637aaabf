@@ -1,0 +1,1 @@
+Write a function that calculates the length of a lightsaber in centimeters based on its length in inches. (1 inch = 2.54 cm)
