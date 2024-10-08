@@ -1,0 +1,1 @@
+Write a function that takes a list of droid names and returns a list of droid names with 'Droid' appended to each. Use a loop to process the list.
