@@ -1,0 +1,1 @@
+Implement a function that sorts a list of students' names into their respective Hogwarts houses based on a simple rule: if the name starts with a letter A-M, they go to Gryffindor, otherwise to Slytherin.
