@@ -1,0 +1,1 @@
+Extend the potion mixing function to allow for multiple ingredients and return the final potion's effect based on the ingredients used.
