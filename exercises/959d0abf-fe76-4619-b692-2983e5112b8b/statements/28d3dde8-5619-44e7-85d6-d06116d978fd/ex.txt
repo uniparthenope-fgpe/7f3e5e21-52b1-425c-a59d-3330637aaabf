@@ -1,0 +1,1 @@
+Fix the syntax error in the spell casting function to ensure it returns the correct spell.
