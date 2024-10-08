@@ -1,0 +1,1 @@
+Write a Python program that prints 'Hello, Galaxy!' to the console.
