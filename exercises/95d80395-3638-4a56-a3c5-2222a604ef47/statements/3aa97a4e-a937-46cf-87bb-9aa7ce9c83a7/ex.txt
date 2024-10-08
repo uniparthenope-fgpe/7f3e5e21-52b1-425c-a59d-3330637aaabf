@@ -1,0 +1,1 @@
+Complete the function that randomly selects a lightsaber color from a predefined list.
