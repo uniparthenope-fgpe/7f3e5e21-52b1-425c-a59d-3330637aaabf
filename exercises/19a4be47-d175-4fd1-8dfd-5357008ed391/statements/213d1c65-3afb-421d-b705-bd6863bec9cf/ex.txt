@@ -1,0 +1,1 @@
+Fix the bugs in the following code that is supposed to calculate the total power of the Force based on the number of Jedi and Sith. The function should return the total power as the sum of Jedi power (2) and Sith power (3).
