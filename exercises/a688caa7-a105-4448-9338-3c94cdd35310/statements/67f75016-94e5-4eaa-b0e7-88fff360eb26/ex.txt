@@ -1,0 +1,1 @@
+Extend the existing Starship class to include a method that calculates the total speed of the fleet based on individual starship speeds. Create multiple starship objects and demonstrate the functionality.
