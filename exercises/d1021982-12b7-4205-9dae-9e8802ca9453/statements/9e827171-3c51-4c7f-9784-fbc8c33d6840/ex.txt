@@ -1,0 +1,1 @@
+Fix the bug in the Starship class that calculates fuel efficiency. The efficiency should be calculated as distance traveled divided by fuel used.
