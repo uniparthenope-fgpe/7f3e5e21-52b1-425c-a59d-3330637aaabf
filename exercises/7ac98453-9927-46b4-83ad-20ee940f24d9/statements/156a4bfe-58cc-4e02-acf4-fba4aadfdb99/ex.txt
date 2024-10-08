@@ -1,0 +1,1 @@
+Create a function that generates a random name for a droid. The name should consist of a random adjective and a random noun from predefined lists.
