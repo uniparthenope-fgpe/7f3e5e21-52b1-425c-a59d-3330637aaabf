@@ -1,0 +1,1 @@
+Fix the errors in the spell checker function that checks if the spell is correctly spelled. The function should return True if the spell is correct and False otherwise.
