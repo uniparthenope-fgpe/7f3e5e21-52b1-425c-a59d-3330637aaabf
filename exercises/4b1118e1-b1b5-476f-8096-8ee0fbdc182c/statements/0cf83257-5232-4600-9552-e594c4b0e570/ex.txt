@@ -1,0 +1,1 @@
+Extend the potion manager to allow users to view all potions and their ingredients.
