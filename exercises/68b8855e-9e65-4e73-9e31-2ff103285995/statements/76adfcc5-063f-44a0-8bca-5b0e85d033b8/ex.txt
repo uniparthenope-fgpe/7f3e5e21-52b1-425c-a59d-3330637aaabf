@@ -1,0 +1,1 @@
+Sort the scores of the contestants based on their performance in each task.
