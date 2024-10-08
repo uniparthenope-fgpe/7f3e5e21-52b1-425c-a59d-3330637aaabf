@@ -1,0 +1,1 @@
+Create a function that returns a lightsaber color based on the user's choice of the Jedi path. Use 'light' for Jedi and 'dark' for Sith.
