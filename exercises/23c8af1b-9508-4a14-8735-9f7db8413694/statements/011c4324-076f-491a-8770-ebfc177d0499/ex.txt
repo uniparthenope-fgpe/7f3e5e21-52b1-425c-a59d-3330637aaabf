@@ -1,0 +1,1 @@
+Implement a system that evaluates and ranks Jedi based on their Force powers using a custom data structure. The evaluation should sort the Jedi based on their power levels.
