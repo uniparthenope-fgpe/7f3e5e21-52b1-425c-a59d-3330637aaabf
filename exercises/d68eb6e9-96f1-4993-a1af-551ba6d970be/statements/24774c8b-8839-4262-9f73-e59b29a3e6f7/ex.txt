@@ -1,0 +1,1 @@
+Fix the bugs in the spell class that is meant to protect Hogwarts from dark arts. Ensure it correctly handles exceptions and inherits properties from the base class.
