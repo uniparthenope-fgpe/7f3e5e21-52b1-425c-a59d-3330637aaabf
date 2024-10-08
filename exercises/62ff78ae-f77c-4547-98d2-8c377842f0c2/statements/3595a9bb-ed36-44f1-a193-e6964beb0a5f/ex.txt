@@ -1,0 +1,1 @@
+Complete the function that sorts a list of student names into their respective houses based on the first letter of their names.
