@@ -1,0 +1,1 @@
+Complete the function that decides the House based on the student's traits. The traits are: 'bravery', 'intelligence', 'loyalty', and 'ambition'.
