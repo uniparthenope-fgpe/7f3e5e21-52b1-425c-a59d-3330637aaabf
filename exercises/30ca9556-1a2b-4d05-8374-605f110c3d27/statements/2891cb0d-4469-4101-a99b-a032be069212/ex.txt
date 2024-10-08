@@ -1,0 +1,1 @@
+You have a list of droids in a dictionary format. There is a bug in the code that prevents it from displaying the correct droid names. Fix the bug to display the droid names correctly.
