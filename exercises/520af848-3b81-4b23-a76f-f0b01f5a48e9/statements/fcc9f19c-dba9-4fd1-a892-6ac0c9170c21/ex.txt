@@ -1,0 +1,1 @@
+Extend the Potion class to include methods for mixing and checking the potency of potions based on their ingredients.
