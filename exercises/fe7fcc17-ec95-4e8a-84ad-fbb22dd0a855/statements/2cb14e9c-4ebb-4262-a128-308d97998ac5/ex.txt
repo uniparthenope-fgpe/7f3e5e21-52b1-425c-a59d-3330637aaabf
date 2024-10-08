@@ -1,0 +1,1 @@
+Fix the bug in the function that selects a lightsaber color based on the user's choice.
