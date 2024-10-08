@@ -1,0 +1,1 @@
+Extend the existing class for a Starship to include new attributes like 'shield_strength' and methods to attack and defend. Implement the logic for a battle simulation.
