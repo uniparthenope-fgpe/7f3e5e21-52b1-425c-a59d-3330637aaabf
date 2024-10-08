@@ -1,0 +1,1 @@
+Create a function that takes a droid's model number and returns a creative name for it. Fill in the gaps in the provided function.
