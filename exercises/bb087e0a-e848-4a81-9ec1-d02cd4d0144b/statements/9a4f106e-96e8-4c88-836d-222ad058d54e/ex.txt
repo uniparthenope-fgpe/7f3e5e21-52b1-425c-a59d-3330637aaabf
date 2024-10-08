@@ -1,0 +1,1 @@
+Create a program that manages an inventory of droids. Allow the user to add, remove, and list droids in the inventory using a dictionary.
