@@ -1,0 +1,1 @@
+Fix the bugs in the following code that is supposed to manage an inventory of droids. It should add a new droid to the inventory and return the updated list.
