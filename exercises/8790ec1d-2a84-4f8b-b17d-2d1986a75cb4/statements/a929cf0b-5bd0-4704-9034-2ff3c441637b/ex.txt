@@ -1,0 +1,1 @@
+Complete the function that counts the number of droids in a list. The function should return the total count. Use the provided skeleton.
