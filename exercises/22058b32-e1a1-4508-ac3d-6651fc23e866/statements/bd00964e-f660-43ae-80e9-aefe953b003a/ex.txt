@@ -1,0 +1,1 @@
+Implement a function `calculate_scores` that takes a list of scores and returns the sorted list in descending order.
