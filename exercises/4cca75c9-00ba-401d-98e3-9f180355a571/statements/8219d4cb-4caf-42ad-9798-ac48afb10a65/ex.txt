@@ -1,0 +1,1 @@
+Complete the function to calculate the speed of a starship given the distance and time taken.
