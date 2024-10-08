@@ -1,0 +1,1 @@
+Implement a function that sorts a list of starships based on their speed. The function should take a list of tuples where each tuple contains the starship name and its speed.
