@@ -1,0 +1,1 @@
+You need to create a list of droids and retrieve their names. Fill in the gaps in the code to complete the function.
