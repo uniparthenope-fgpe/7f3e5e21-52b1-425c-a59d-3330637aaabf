@@ -1,0 +1,1 @@
+Find and fix the bug in the following code that is supposed to count the number of bugbears in a list.
