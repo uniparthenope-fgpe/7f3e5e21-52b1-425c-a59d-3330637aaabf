@@ -1,0 +1,1 @@
+Fix the class implementation for a Triwizard Tournament competitor.
