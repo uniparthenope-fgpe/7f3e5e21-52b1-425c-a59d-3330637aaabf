@@ -1,0 +1,1 @@
+Complete the code to create a list of magical creatures and print each one using a loop.
