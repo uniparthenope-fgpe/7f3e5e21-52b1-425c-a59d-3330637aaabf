@@ -1,0 +1,1 @@
+Complete the Sorting Hat algorithm to assign students to Hogwarts houses based on their traits.
