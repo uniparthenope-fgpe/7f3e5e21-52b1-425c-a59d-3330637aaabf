@@ -1,0 +1,1 @@
+Complete the function that simulates the Sorting Hat by sorting students into houses based on their preferences.
