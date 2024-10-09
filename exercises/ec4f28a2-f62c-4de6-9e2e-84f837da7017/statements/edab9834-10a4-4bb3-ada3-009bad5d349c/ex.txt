@@ -1,0 +1,1 @@
+Improve the existing battle simulation by adding more features to the Starship class, such as attack and defense methods.
