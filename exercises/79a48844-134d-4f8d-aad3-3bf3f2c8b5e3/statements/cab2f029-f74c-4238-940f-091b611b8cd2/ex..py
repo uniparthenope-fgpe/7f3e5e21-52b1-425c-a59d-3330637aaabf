@@ -1,0 +1,1 @@
+Fix the bug in the defensive spell function that is supposed to return the spell's effectiveness.
