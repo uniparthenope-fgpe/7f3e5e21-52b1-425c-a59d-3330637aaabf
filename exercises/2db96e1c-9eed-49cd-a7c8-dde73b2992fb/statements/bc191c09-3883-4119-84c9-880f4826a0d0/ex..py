@@ -1,0 +1,1 @@
+Write a function that takes a list of student names and sorts them alphabetically, just like the Sorting Hat would do.
