@@ -1,0 +1,1 @@
+Identify and fix the bugs in the defensive spells function that handles exceptions.
