@@ -1,0 +1,1 @@
+Optimize the following code that searches for magical creatures in the Forbidden Forest. Make it more efficient.
