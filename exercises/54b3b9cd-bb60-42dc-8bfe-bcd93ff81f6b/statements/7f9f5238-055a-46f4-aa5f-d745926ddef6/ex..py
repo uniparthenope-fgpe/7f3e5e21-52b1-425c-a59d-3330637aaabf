@@ -1,0 +1,1 @@
+Write a program that takes a student's bravery level and decides their House.
