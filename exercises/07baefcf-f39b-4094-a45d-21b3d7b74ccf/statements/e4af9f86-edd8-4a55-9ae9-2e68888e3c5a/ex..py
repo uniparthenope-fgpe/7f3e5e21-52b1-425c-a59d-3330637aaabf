@@ -1,0 +1,1 @@
+Extend the scoring system for the Triwizard Tournament by adding a method to calculate the average score.
