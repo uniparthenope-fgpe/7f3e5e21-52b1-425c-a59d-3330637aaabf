@@ -1,0 +1,1 @@
+Fix the bug in the function that counts the number of magical creatures in the Forbidden Forest.
