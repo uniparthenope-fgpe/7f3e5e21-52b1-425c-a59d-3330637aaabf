@@ -1,0 +1,1 @@
+Fix the bugs in the potion mixing function to correctly calculate the total potion strength.
