@@ -1,0 +1,1 @@
+Complete the Sorting Hat algorithm that assigns students to houses based on their traits.
