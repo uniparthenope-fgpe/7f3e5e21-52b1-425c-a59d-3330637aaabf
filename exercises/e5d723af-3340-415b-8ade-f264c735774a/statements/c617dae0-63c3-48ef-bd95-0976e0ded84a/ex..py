@@ -1,0 +1,1 @@
+Complete the spell casting function that takes a spell name and returns a magical effect.
