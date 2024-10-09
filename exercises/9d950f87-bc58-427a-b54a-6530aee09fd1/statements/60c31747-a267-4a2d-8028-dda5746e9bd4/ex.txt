@@ -1,0 +1,1 @@
+Create a function that calculates the damage dealt in a lightsaber duel based on the attack power and defense level of the combatants.
