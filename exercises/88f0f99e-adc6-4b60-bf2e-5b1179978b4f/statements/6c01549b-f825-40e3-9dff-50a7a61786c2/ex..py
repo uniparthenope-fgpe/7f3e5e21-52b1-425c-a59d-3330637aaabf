@@ -1,0 +1,1 @@
+You need to calculate the total amount of potion ingredients. Fill in the gaps to complete the function that sums up the ingredients.
