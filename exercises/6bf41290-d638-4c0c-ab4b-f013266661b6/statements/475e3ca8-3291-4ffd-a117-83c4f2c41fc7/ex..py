@@ -1,0 +1,1 @@
+Find and fix the bugs in the following code that is supposed to calculate the average number of points scored in Quidditch matches.
