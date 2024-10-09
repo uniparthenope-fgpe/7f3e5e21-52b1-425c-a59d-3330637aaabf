@@ -1,0 +1,1 @@
+Sort the following blocks of code to create a loop that prints the first five spells.
