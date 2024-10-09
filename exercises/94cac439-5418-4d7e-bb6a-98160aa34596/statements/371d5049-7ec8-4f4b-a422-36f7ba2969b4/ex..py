@@ -1,0 +1,1 @@
+Sort the list of magical creatures based on their level of danger.
