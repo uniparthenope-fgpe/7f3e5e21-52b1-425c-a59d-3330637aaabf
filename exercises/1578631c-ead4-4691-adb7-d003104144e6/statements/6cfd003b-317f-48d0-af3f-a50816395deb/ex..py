@@ -1,0 +1,1 @@
+Create an algorithm that finds the shortest path to the Philosopher's Stone using Dijkstra's algorithm.
