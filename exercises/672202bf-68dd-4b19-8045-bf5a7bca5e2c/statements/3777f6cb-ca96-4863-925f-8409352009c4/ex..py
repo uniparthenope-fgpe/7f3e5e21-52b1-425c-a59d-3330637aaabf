@@ -1,0 +1,1 @@
+Complete the wizard class to create a new wizard and cast a spell.
