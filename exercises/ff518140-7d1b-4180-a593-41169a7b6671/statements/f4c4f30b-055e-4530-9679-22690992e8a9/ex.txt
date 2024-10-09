@@ -1,0 +1,1 @@
+Create a function that takes in the speed of a starship and returns whether it can make the jump to hyperspace.
