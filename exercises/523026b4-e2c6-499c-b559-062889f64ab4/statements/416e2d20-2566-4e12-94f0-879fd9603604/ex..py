@@ -1,0 +1,1 @@
+Extend the Quidditch class to include a method for scoring points. Complete the class.
