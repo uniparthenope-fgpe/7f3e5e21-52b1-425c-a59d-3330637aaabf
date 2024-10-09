@@ -1,0 +1,1 @@
+Write a function that takes two ingredients and returns a potion name. Complete the function.
