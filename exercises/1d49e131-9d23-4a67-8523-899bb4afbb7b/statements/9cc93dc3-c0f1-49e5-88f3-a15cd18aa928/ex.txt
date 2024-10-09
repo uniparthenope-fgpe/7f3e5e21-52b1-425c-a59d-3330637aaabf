@@ -1,0 +1,1 @@
+Extend the function to calculate the total power of the Force based on multiple Jedi's power levels.
