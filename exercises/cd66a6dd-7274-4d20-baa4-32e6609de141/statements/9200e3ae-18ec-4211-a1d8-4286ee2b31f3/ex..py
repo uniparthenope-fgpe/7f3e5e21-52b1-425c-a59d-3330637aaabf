@@ -1,0 +1,1 @@
+Extend the spell casting function to include multiple spells and their effects. Each spell should have a name and a power level.
