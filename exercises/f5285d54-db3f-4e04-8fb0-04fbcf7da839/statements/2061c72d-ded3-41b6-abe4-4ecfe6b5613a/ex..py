@@ -1,0 +1,1 @@
+Find and fix the bug in the spell checker function that raises an error when a spell is not found.
