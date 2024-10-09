@@ -1,0 +1,1 @@
+Identify and fix the bug in the following code that raises an exception when trying to access a non-existent Sith.
