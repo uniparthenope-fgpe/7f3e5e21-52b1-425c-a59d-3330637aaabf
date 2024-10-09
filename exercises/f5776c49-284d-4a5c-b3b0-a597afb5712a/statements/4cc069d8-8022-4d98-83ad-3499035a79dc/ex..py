@@ -1,0 +1,1 @@
+Improve the existing scoring system for Quidditch by adding a function that calculates the total score based on goals and catches.
