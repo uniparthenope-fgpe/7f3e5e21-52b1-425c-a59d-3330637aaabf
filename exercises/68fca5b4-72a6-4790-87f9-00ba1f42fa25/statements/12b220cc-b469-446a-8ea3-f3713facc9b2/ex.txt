@@ -1,0 +1,1 @@
+Improve the Galactic Battle class to handle multiple battles and track the winner.
