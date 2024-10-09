@@ -1,0 +1,1 @@
+Help the Sorting Hat organize students into their respective houses by sorting a list of names alphabetically.
