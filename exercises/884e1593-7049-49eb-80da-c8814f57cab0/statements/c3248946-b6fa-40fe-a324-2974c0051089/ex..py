@@ -1,0 +1,1 @@
+Extend the list of magical creatures by adding new creatures and sorting them alphabetically.
