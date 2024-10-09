@@ -1,0 +1,1 @@
+Extend the scoring function to include the number of goals and penalties to calculate the final score.
